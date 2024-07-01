@@ -26,8 +26,11 @@ Semi-supervised learning (SSL) has shown its effectiveness in learning effective
 
 ### Requirements
 python >= 3.7
+
 pytorch >= 1.6
+
 h5py
+
 scikit-learn
 
 ### Datasets
