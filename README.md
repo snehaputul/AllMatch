@@ -20,7 +20,7 @@ Semi-supervised learning (SSL) has shown its effectiveness in learning effective
 ## Overview
 
 <div  align="center">    
- <img src="./figures/banner.pdf" width = "999"  align=center />
+ <img src="./figures/banner.png" width = "999"  align=center />
 </div>
 
 
