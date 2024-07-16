@@ -1,7 +1,7 @@
 ## Improving 3D Semi-supervised Learning by Effectively Utilizing All Unlabelled Data
 This is a Pytorch implementation of AllMatch.
 
-[Sneha Paul](https://snehaputul.github.io/)\* , Zachary Patterson([https://scholar.google.com/citations?user=oMvFn0wAAAAJ&hl=en)](https://scholar.google.com/citations?user=FBtlDAMAAAAJ&hl=en&oi=ao), and Nizar Bouguila([https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en](https://scholar.google.com/citations?user=JF6jrN8AAAAJ&hl=en&oi=ao)
+[Sneha Paul](https://github.com/snehaputul)\* , [Zachary Patterson](https://scholar.google.com/citations?user=FBtlDAMAAAAJ&hl=en&oi=ao), and [Nizar Bouguila](https://scholar.google.com/citations?user=JF6jrN8AAAAJ&hl=en&oi=ao)
 
 CIISE, Concordia University, Montreal, Canada
 
